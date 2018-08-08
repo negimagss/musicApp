@@ -1,0 +1,4 @@
+{
+"extends" : "rallycoding"
+#will tell the module that they need to install rallycoding simimlar  to npm install react-native-image-picker@latest
+}

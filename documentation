@@ -1,0 +1,18 @@
+using flexbox for styling
+Flexbox is a system of positioning elements in a container eg. if we
+have to position a text in an application then it is required
+
+react-native run-android
+
+two properties name sfor styling:
+1: Jutify content
+2: Line items
+
+to move the text ti the centre of the tab
+
+
+1: Justify for vertical content in Y direction
+  justifyContent: 'flex-start' is used as a default
+
+2: alignItems is for horizontal moving
+use flex-end, center
