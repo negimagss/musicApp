@@ -1,6 +1,6 @@
 import React from 'react';
 import { AppRegistry, View } from 'react-native';
-import Header from './src/components/header'; // give the path of the same
+import Header from './src/components/header';
 import AlbumList from './src/components/AlbumList';
 // create a component
 const App = () => (
